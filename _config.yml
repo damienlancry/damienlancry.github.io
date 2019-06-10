@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Damien Lancry"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Research Assistant @ A*STAR, Graduate from CentraleSupelec and Imperial College London."
   location         : "Singapore"
   email            :
