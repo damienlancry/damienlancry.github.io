@@ -18,17 +18,13 @@ permalink: /resume/
 
 >### Graduate student in Data Science looking for a 6-month internship starting February 2019
 
-[pdf](../assets/pdf/CV_Eliott_Joulot.pdf){: .btn .btn--info}
+[pdf](../assets/pdf/CV_Damien_Lancry.pdf){: .btn .btn--info}
 <br><br>
-I am a 23 years old master’s student in Computer Science at CPE Lyon, currently doing a master in Data Science at EPFL as an exchange student. I am looking for an internship ideally in the field of Data Analysis and Machine Learning from February 2019.
-
-I have gained good technical leadership from my studies and experiences, as well as the ability to adapt easily and communicate ideas clearly to overcome new challenges.
-
-Most importantly, I love understanding others' points of view and working in diverse teams towards ambitious objectives and get new perspectives from it.
+I am a Research Assistant at A*STAR - Agency for Science, Technology and Research. I work in the Institute for Infocomm and Research. My research focuses on Deep Bayesian Active Learning. 
 
 At the end of the day, I’m happy as long as I keep on learning.
 
-Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eliottjoulot/), or reach out over email at eliott.joulot@epfl.ch
+Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/damienlancry/), or reach out over email at damien.lancry@gmail.com .
 
 <br>
 <br>
