@@ -36,102 +36,96 @@ Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/el
 # Education
 <br>
 
-### Master in Data Science - graduation expected in 2019
+### M.Sc. Advanced Computing
 
 
->**EPFL** <br>
->Lausanne, SWITZERLAND<br>
->since 2016<br>
+>**Imperial College London** <br>
+>London, United Kingdom<br>
+>Oct 2017 -- Oct 2018<br>
 
-1-year intensive program to specialize in Data Science and Machine Learning at EPFL (top 20 best in the world), after one year of computer science specialization at CPE Lyon. Courses included: Machine Learning, Applied Data Analysis, Data Visualization, Natural Language Processing, Advanced Web Development, Concurrent Programming
+1-year intensive program to specialize in Data Science and Machine Learning at Imperial College (12th in the world in 2018 according to  QS World university rankings).
+Relevant Courses: Mathematics for Machine Learning, Dynamical Systems and Deep Learning, Reinforcement Learning, Advanced Machine Learning and Pattern Recognition, Data Analysis and Probabilistic Inference
 
 
 <br>
 
-### Bachelor of Science in Digital Systems - graduated in 2016
+### Programme Grande Ecole
 
->**CPE Lyon** <br>
-Lyon, FRANCE<br>
-2013 - 2016<br>
+>**CentraleSupelec** <br>
+Paris, France<br>
+Sep 2015 -- Jul 2019<br>
 
 1-year intensive program to specialize in Data Science and Machine Learning at EPFL (top 20 best in the world), after one year of computer science specialization at CPE Lyon. Courses included: Machine Learning, Applied Data Analysis, Data Visualization, Natural Language Processing, Advanced Web Development, Concurrent Programming
 
 <br>
+
+### Classes Preparatoires aux Grandes Ecoles
+
+>**Lycee Pasteur** <br>
+Paris, France<br>
+Sep 2013 -- Jul 2015<br>
+
+2-year Intensive preparation in Mathematics and Physics for the highly competitive entrance exams to the French Grandes Écoles.
 
 # Experience
 <br>
 
 ### Research Assistant
 
->**Fraunhofer Institut IPK** <br>
->Berlin, GERMANY<br>
->2017, 1 year<br>
+>**A*STAR** <br>
+>Singapore<br>
+>Feb 2019 -- Aug 2019<br>
 
-Trainee developer in an international research institute, managing several projects
+<!-- Trainee developer in an international research institute, managing several projects
 - Led a Machine Learning project aiming at detecting, understanding, and analyzing the work behaviors of engineers, with very positive and promising results
-- Developed a tool now used by many researchers on a daily basis<br>
-<a href="../assets/pdf/recommendation_letter.pdf">Recommendation letter</a>
+- Developed a tool now used by many researchers on a daily basis<br> -->
 
 <br>
 
-### President of the students Arts union
+### Data Science Intern
 
->**CPE Lyon** <br>
->Lyon, FRANCE<br>
->2016, 1 year<br>
+>**HomeRez** <br>
+>Paris, FRANCE<br>
+>Jun 2017 -- Sep 2017<br>
 
-- Led union of 40+ members
-- Acquired leadership and team management skills to carry out important projects
-
+- Data Acquisition by scraping Airbnb, HomeAway using Crawlera
+- Development and Deployment of a vacation rental pricing algorithm
+- Validation of the model by comparing performance of houses
 <br>
 
-### Entrepreneurship competition
+### Customer Support Intern
 
->**Campus Creation** <br>
->Lyon, FRANCE<br>
->2016, 1 year<br>
+>**Mikazuki Hotel** <br>
+>Kamogawa, JAPAN<br>
+>Jun 2016 -- Aug 2016<br>
 
-Finalist of a one year regional competition as a multi-disciplinary team, competing with 120 other teams for the best startup project in front of a jury of entrepreneurs
-We presented a project for piezoelectric soles equipped with batteries and sensors
-
-<br>
-
-### Internship in supply chain management
-
->**LDLC** <br>
->Lyon, FRANCE<br>
->2016, 2 months<br>
-
-- Responsible for managing the package flow from client orders to shipping
-- Working with many departments to boost productivity and improve workflow
+- Employee in a hotel in Japan as a customer supporter.
+- Daily use of the Japanese language.
+- Beforehand, Japanese formation and immersion in a Japanese host family.
 
 <br>
 <br>
 
 # Technical skills
 <br>
+- **Mathematical Foundations of Machine Learning, Deep Learning and Reinforcement Learning**
 
-- **Mathematical foundations of ML, NLP, DL, NN**, and strong background in libraries such as Numpy, Pandas, Scikit-learn
+- **Programming Languages**: Proficiency in **Python**, Experience with **Matlab, Octave, Java, JS, C++**
 
-- **Data-driven thinking**. Ability to analyze and quickly draw insights from unknown datasets
+- **Python Libraries**: PyTorch, TensorFlow, Keras, Pandas, Scikit-Learn, Skorch, modAL, Gym
 
-- **Ability to communicate complex analyses** using data visualization to translate data into decisions (tableau, D3.js)
-
-- Proficiency in **Python, SQL, Java, JS, C, C#**
-
+- **Operating Systems**: Linux (Ubuntu), Windows
 
 <br>
 
 # Other computer skills
 <br>
 
-- **Web development**: HTML, CSS
+- **Software**: Atom, PyCharm, Eclipse, MS Office
 
-- **Software**: Microsoft Azure, Visual Studio, Eclipse, MS Office, Matlab
+- Strong background with **Github**
 
-- Strong background with **Gituhb**
-
-- **Environments**: J2EE, Jupyter
+- **Environments**: Jupyter
 
 <br>
 
@@ -140,9 +134,11 @@ We presented a project for piezoelectric soles equipped with batteries and senso
 
 - **French**: Native speaker
 
-- **English**: fluent
+- **English**: Full professional proficiency
 
-- **Spanish**: Conversational
+- **Spanish**: Limited professional proficiency
+
+- **Japanese**: Elementary proficiency
 
 <br>
 <br>
