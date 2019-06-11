@@ -16,7 +16,7 @@ permalink: /resume/
 </h2> -->
 # About me
 
->### Graduate student in Data Science looking for a 6-month internship starting February 2019
+>### Graduate in Computer Science from CentraleSup\'{e}lec and Imperial College London
 
 [pdf](../assets/pdf/cv2019.pdf){: .btn .btn--info}
 <br><br>
