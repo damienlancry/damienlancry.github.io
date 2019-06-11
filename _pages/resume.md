@@ -21,7 +21,7 @@ permalink: /resume/
 [pdf](../assets/pdf/cv2019.pdf){: .btn .btn--info}
 
 <br><br>
-<div style="text-align: right">
+<div style="text-align: center">
 I am a Research Assistant at A*STAR - Agency for Science, Technology and Research. I work in the Institute for Infocomm and Research. My research focuses on Deep Bayesian Active Learning. Active Learning is a field of Machine Learning applied when there is a large pool of unlabeled data available but labelling it is very costly. It is the case for example in medical imaging where labelling the data requires expert time which is expensive. Basically it consists in building the most accurate model under a finite labelling budget.
 
 I fell in love with Machine Learning during my schooldays at CentraleSupélec and ever since I have done my best to improve my skills and extend my knowledge thanks to my professional experiences and my academic curriculum.
