@@ -16,7 +16,7 @@ permalink: /resume/
 </h2> -->
 # About me
 
->### Graduate in Computer Science from CentraleSup\élec and Imperial College London
+>### Graduate in Computer Science from CentraleSupélec and Imperial College London
 
 [pdf](../assets/pdf/cv2019.pdf){: .btn .btn--info}
 
