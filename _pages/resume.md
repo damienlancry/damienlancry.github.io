@@ -24,9 +24,11 @@ permalink: /resume/
 <div style="text-align: justify">
 I am a Research Assistant at A*STAR - Agency for Science, Technology and Research. I work in the Institute for Infocomm and Research. My research focuses on Deep Bayesian Active Learning. Active Learning is a field of Machine Learning applied when there is a large pool of unlabeled data available but labelling it is very costly. It is the case for example in medical imaging where labelling the data requires expert time which is expensive. Basically it consists in building the most accurate model under a finite labelling budget.
 </div>
+
 <div style="text-align: justify">
 I fell in love with Machine Learning during my schooldays at CentraleSupélec and ever since I have done my best to improve my skills and extend my knowledge thanks to my professional experiences and my academic curriculum.
 </div>
+
 <div style="text-align: justify">
 Please feel free to connect with me on <a href="https://www.linkedin.com/in/damienlancry/">LinkedIn</a>, or reach out over email at damien.lancry@gmail.com .
 </div>
