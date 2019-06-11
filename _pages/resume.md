@@ -18,9 +18,9 @@ permalink: /resume/
 
 >### Graduate student in Data Science looking for a 6-month internship starting February 2019
 
-[pdf](../assets/pdf/CV_Damien_Lancry.pdf){: .btn .btn--info}
+[pdf](../assets/pdf/cv2019.pdf){: .btn .btn--info}
 <br><br>
-I am a Research Assistant at A*STAR - Agency for Science, Technology and Research. I work in the Institute for Infocomm and Research. My research focuses on Deep Bayesian Active Learning. 
+I am a Research Assistant at A*STAR - Agency for Science, Technology and Research. I work in the Institute for Infocomm and Research. My research focuses on Deep Bayesian Active Learning.
 
 At the end of the day, I’m happy as long as I keep on learning.
 
