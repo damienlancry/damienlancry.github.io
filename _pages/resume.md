@@ -45,7 +45,7 @@ Relevant Courses: Mathematics for Machine Learning, Dynamical Systems and Deep L
 
 <br>
 
-### Programme Grande Ecole
+### *Programme Grande \'{E}cole*
 
 >**CentraleSupelec** <br>
 Paris, France<br>
@@ -55,7 +55,7 @@ Sep 2015 -- Jul 2019<br>
 
 <br>
 
-### Classes Preparatoires aux Grandes Ecoles
+### *Classes Preparatoires aux Grandes \'{E}coles*
 
 >**Lycee Pasteur** <br>
 Paris, France<br>
@@ -81,7 +81,7 @@ Sep 2013 -- Jul 2015<br>
 ### Data Science Intern
 
 >**HomeRez** <br>
->Paris, FRANCE<br>
+>Paris, France<br>
 >Jun 2017 -- Sep 2017<br>
 
 - Data Acquisition by scraping Airbnb, HomeAway using Crawlera
@@ -92,7 +92,7 @@ Sep 2013 -- Jul 2015<br>
 ### Customer Support Intern
 
 >**Mikazuki Hotel** <br>
->Kamogawa, JAPAN<br>
+>Kamogawa, Japan<br>
 >Jun 2016 -- Aug 2016<br>
 
 - Employee in a hotel in Japan as a customer supporter.
