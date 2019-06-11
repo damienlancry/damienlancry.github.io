@@ -16,7 +16,7 @@ permalink: /resume/
 </h2> -->
 # About me
 
->### Graduate in Computer Science from CentraleSup\'{e}lec and Imperial College London
+>### Graduate in Computer Science from CentraleSup\élec and Imperial College London
 
 [pdf](../assets/pdf/cv2019.pdf){: .btn .btn--info}
 
@@ -24,7 +24,7 @@ permalink: /resume/
 <div style="text-align: right">
 I am a Research Assistant at A*STAR - Agency for Science, Technology and Research. I work in the Institute for Infocomm and Research. My research focuses on Deep Bayesian Active Learning. Active Learning is a field of Machine Learning applied when there is a large pool of unlabeled data available but labelling it is very costly. It is the case for example in medical imaging where labelling the data requires expert time which is expensive. Basically it consists in building the most accurate model under a finite labelling budget.
 
-I fell in love with Machine Learning during my schooldays at CentraleSup'{e}lec and ever since I have done my best to improve my skills and extend my knowledge thanks to my professional experiences and my academic curriculum.
+I fell in love with Machine Learning during my schooldays at CentraleSupélec and ever since I have done my best to improve my skills and extend my knowledge thanks to my professional experiences and my academic curriculum.
 
 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/damienlancry/), or reach out over email at damien.lancry@gmail.com .
 </div>
@@ -47,17 +47,17 @@ Relevant Courses: Mathematics for Machine Learning, Dynamical Systems and Deep L
 
 <br>
 
-### *Programme Grande '{E}cole*
+### *Programme Grande Écoles*
 
->**CentraleSup'{e}lec** <br>
+>**CentraleSupélec** <br>
 Paris, France<br>
 Sep 2015 -- Jul 2019<br>
 
 <br>
 
-### *Classes Pr'{e}paratoires aux Grandes '{E}coles*
+### *Classes Préparatoires aux Grandes Écoles*
 
->**Lyc'{e}e Pasteur** <br>
+>**Lycée Pasteur** <br>
 Paris, France<br>
 Sep 2013 -- Jul 2015<br>
 
