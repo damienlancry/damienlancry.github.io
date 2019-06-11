@@ -58,6 +58,8 @@ Relevant Courses: Mathematics for Machine Learning, Dynamical Systems and Deep L
 Paris, France<br>
 Sep 2015 -- Jul 2019<br>
 
+Supélec Engineering Program. Top-tier Engineering School in Electrical Engineering, Computer Science and Telecommunications. 1st year GPA: 3.9/4
+
 <br>
 
 ### *Classes Préparatoires aux Grandes Écoles*
