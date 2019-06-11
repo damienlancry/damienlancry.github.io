@@ -47,7 +47,7 @@ Relevant Courses: Mathematics for Machine Learning, Dynamical Systems and Deep L
 
 <br>
 
-### *Programme Grande Écoles*
+### *Programme Grande École*
 
 >**CentraleSupélec** <br>
 Paris, France<br>
