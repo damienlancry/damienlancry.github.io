@@ -23,15 +23,13 @@ permalink: /resume/
 <br>
 <div style="text-align: justify">
 I am a Research Assistant at A*STAR - Agency for Science, Technology and Research. I work in the Institute for Infocomm and Research. My research focuses on Deep Bayesian Active Learning. Active Learning is a field of Machine Learning applied when there is a large pool of unlabeled data available but labelling it is very costly. It is the case for example in medical imaging where labelling the data requires expert time which is expensive. Basically it consists in building the most accurate model under a finite labelling budget.
-<!-- </div>
+</div>
 <br>
-<div style="text-align: justify"> -->
-
+<div style="text-align: justify">
 I fell in love with Machine Learning during my schooldays at CentraleSupélec and ever since I have done my best to improve my skills and extend my knowledge thanks to my professional experiences and my academic curriculum.
-<!-- </div>
+</div>
 <br>
-<div style="text-align: justify"> -->
-
+<div style="text-align: justify">
 Please feel free to connect with me on <a href="https://www.linkedin.com/in/damienlancry/">LinkedIn</a>, or reach out over email at damien.lancry@gmail.com .
 </div>
 <br>
@@ -47,8 +45,10 @@ Please feel free to connect with me on <a href="https://www.linkedin.com/in/dami
 >London, United Kingdom<br>
 >Oct 2017 -- Oct 2018<br>
 
+<div style="text-align: justify">
 1-year intensive program to specialize in Computer Science and Machine Learning at Imperial College (12th in the world in 2018 according to  QS World university rankings).
 Relevant Courses: Mathematics for Machine Learning, Dynamical Systems and Deep Learning, Reinforcement Learning, Advanced Machine Learning and Pattern Recognition, Data Analysis and Probabilistic Inference
+</div>
 
 
 <br>
@@ -59,7 +59,9 @@ Relevant Courses: Mathematics for Machine Learning, Dynamical Systems and Deep L
 Paris, France<br>
 Sep 2015 -- Jul 2019<br>
 
+<div style="text-align: justify">
 Supélec Engineering Program. Top-tier Engineering School in Electrical Engineering, Computer Science and Telecommunications. 1st year GPA: 3.9/4
+</div>
 
 <br>
 
@@ -69,7 +71,9 @@ Supélec Engineering Program. Top-tier Engineering School in Electrical Engineer
 Paris, France<br>
 Sep 2013 -- Jul 2015<br>
 
+<div style="text-align: justify">
 2-year Intensive preparation in Mathematics and Physics for the highly competitive entrance exams to the French *Grandes Écoles*.
+</div>
 
 # Experience
 <br>
@@ -79,6 +83,13 @@ Sep 2013 -- Jul 2015<br>
 >**A*STAR** <br>
 >Singapore<br>
 >Feb 2019 -- Aug 2019<br>
+
+<div style="text-align: justify">
+Research Assistant in A*STAR's Institute for Infocomm and Research (I2R).
+Supervised by <a href="http://ai.stanford.edu/~csfoo/">Foo Chuan Sheng</a>.
+- Background Research on state-of-the-art Bayesian Deep Learning and Active Learning
+- Application of Deep Bayesian Active Learning 
+</div>
 
 <br>
 
