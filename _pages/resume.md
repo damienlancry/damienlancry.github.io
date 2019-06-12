@@ -88,7 +88,7 @@ Sep 2013 -- Jul 2015<br>
 Research Assistant in A*STAR's Institute for Infocomm and Research (I2R).
 Supervised by <a href="http://ai.stanford.edu/~csfoo/">Foo Chuan Sheng</a>.
 - Background Research on state-of-the-art Bayesian Deep Learning and Active Learning
-- Application of Deep Bayesian Active Learning 
+- Application of Deep Bayesian Active Learning to a dataset provided by A*STAR's Institute of Microelectronics
 </div>
 
 <br>
@@ -117,39 +117,16 @@ Supervised by <a href="http://ai.stanford.edu/~csfoo/">Foo Chuan Sheng</a>.
 <br>
 <br>
 
-# Technical skills
+# Skills
 <br>
-- **Mathematical Foundations of Machine Learning, Deep Learning and Reinforcement Learning**
-
 - **Programming Languages**: Proficiency in **Python**, Experience with **Matlab, Octave, Java, JS, C++**
 
-- **Python Libraries**: PyTorch, TensorFlow, Keras, Pandas, Scikit-Learn, Skorch, modAL, Gym
+- **Python Libraries**: PyTorch, TensorFlow, Keras, Pandas, Scikit-Learn, Skorch, modAL, Gym, Numpy, Matplotlib, pymongo
 
 - **Operating Systems**: Linux (Ubuntu), Windows
 
-<br>
+- **Languages**: French (native), English (full professional proficiency), Spanish (limited working proficiency), Japanese (elementary proficiency)
 
-# Other computer skills
-<br>
-
-- **Software**: Atom, PyCharm, Eclipse, MS Office
-
-- Strong background with **Github**
-
-- **Environments**: Jupyter
-
-<br>
-
-# Languages
-<br>
-
-- **French**: Native speaker
-
-- **English**: Full professional proficiency
-
-- **Spanish**: Limited professional proficiency
-
-- **Japanese**: Elementary proficiency
 
 <br>
 <br>
