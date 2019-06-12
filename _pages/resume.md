@@ -101,9 +101,9 @@ Sep 2013 -- Jul 2015<br>
 >Kamogawa, Japan<br>
 >Jun 2016 -- Aug 2016<br>
 
-- Employee in a hotel in Japan as a customer supporter.
-- Daily use of the Japanese language.
-- Beforehand, Japanese formation and immersion in a Japanese host family.
+- Employee in a hotel in Japan as a customer supporter
+- Daily use of the Japanese language
+- Beforehand, Japanese formation and immersion in a Japanese host family
 
 <br>
 <br>
