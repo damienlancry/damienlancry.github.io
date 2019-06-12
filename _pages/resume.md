@@ -121,7 +121,7 @@ Supervised by <a href="http://ai.stanford.edu/~csfoo/">Foo Chuan Sheng</a>.
 <br>
 - **Programming Languages**: Proficiency in **Python**, Experience with **Matlab, Octave, Java, JS, C++**
 
-- **Python Libraries**: PyTorch, TensorFlow, Keras, Pandas, Scikit-Learn, Skorch, modAL, Gym, Numpy, Matplotlib, pymongo
+- **Python Libraries**: PyTorch, TensorFlow, Keras, Pandas, ScikitLearn, Numpy, OpenCV, MongoDB, Matplotlib, Skorch, modAL, multiprocessing, pymongo
 
 - **Operating Systems**: Linux (Ubuntu), Windows
 
