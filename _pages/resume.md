@@ -74,6 +74,7 @@ Sep 2013 -- Jul 2015<br>
 <div style="text-align: justify">
 2-year Intensive preparation in Mathematics and Physics for the highly competitive entrance exams to the French *Grandes Écoles*.
 </div>
+<br>
 
 # Experience
 <br>
@@ -93,7 +94,7 @@ Supervised by <a href="http://ai.stanford.edu/~csfoo/">Foo Chuan Sheng</a>.
 
 <br>
 
-### Data Science Intern
+### Data Analyst Intern
 
 >**HomeRez** <br>
 >Paris, France<br>
