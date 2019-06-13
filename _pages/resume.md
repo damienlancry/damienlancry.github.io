@@ -22,7 +22,7 @@ permalink: /resume/
 
 <br>
 <div style="text-align: justify">
-I am a Research Assistant at A*STAR - Agency for Science, Technology and Research. I work in the Institute for Infocomm and Research. My research focuses on Deep Bayesian Active Learning. Active Learning is a field of Machine Learning applied when there is a large pool of unlabeled data available but labelling it is very costly. It is the case for example in medical imaging where labelling the data requires expert time which is expensive. Basically it consists in building the most accurate model under a finite labelling budget.
+I am a Research Assistant at A*STAR - Agency for Science, Technology and Research. I work in the Institute for Infocomm Research. My research focuses on Deep Bayesian Active Learning. Active Learning is a field of Machine Learning applied when there is a large pool of unlabeled data available but labelling it is very costly. It is the case for example in medical imaging where labelling the data requires expert time which is expensive. Basically it consists in building the most accurate model under a finite labelling budget.
 </div>
 <br>
 <div style="text-align: justify">
