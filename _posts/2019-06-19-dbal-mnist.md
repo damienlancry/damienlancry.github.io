@@ -13,21 +13,19 @@ header:
 excerpt: "Learning to classify digits with as few data as possible"
 ---
 
-# Deep Bayesian Active Learning with Image Data
-
 This is an implementation of the paper Deep Bayesian Active Learning with Image Data using keras and modAL. [modAL](https://modal-python.readthedocs.io/en/latest/) is an active learning framework for Python3, designed with modularity, flexibility and extensibility in mind. Built on top of scikit-learn, it allows you to rapidly create active learning workflows with nearly complete freedom. What is more, you can easily replace parts with your custom built solutions, allowing you to design novel algorithms with ease.
 
 ## Active Learning
 
 In this notebook, we are concerned with pool-based Active Learning. In this setting, we have a large amount of unlabelled data and a small initial labelled training set and we want to choose what data should be labelled next.
 
-To do so, there are several query strategies. In this notebook, we will be using uncertainty sampling: the data chosen to be annotated is the one that maximizes an uncertainty criterion (entropy, gini index, variation ratios ...). 
+To do so, there are several query strategies. In this notebook, we will be using uncertainty sampling: the data chosen to be annotated is the one that maximizes an uncertainty criterion (entropy, gini index, variation ratios ...).
 
 ## Dropout-Based Bayesian Deep Neural Networks
 
-In this Notebook, we will select the data from the unlabelled pool that maximizes the uncertainty of our model. But the model we will be using will be a Bayesian Deep Neural Network. 
+In this Notebook, we will select the data from the unlabelled pool that maximizes the uncertainty of our model. But the model we will be using will be a Bayesian Deep Neural Network.
 
-Unlike Traditional Deep Learning, where we are looking for the set of weights that maximizes the likelihood of the data (MLE), in bayesian deep learning we are looking for the posterior distribution over the weights and the prediction is then obtained by marginalizing out the weights. As a result, Bayesian models are less prone to overfitting. But unfortunately for big deep models, the posterior distribution is intractable, and we need approximations. 
+Unlike Traditional Deep Learning, where we are looking for the set of weights that maximizes the likelihood of the data (MLE), in bayesian deep learning we are looking for the posterior distribution over the weights and the prediction is then obtained by marginalizing out the weights. As a result, Bayesian models are less prone to overfitting. But unfortunately for big deep models, the posterior distribution is intractable, and we need approximations.
 
 In 2015, [Gal and Ghahramani](https://arxiv.org/pdf/1506.02142.pdf) showed that deep models with dropout layers can be viewed as a lightweight bayesian approximation. The prior and posterior distributions are simply Bernoulli distributions (0 or the learned value). And the predictions can be cheaply obtained at test time by performing Monte Carlo integrations with dropout layers activated.
 
