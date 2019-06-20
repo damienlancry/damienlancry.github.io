@@ -9,7 +9,7 @@ tags:
   - Keras
   - Python
 header:
-    teaser: "assets/images/MNIST.jpeg"
+    teaser: "assets/images/pool-based-active-learning.png"
 excerpt: "Learning to classify digits with as few data as possible"
 ---
 
